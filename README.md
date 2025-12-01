@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning AWS to expand my skill set in cloud services.
 - 👯 I’m open to collaborating on small projects and innovative ideas.
 - 👨‍💻 You can explore my projects on LinkedIn.
-- 📄 Learn more about my experience through my [resume](https://drive.google.com/file/d/1Ogr8FUzxBma9kR5CZsZhBdf7WhQv-M6S/view?usp=sharing).
+- 📄 Learn more about my experience through my [resume](https://drive.google.com/file/d/10CnuFS1RSdkhWfVAyF-qIK4bl1IGRFRZ/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
