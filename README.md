@@ -13,7 +13,7 @@
   <a href="https://nadee23.itch.io" target="blank">
     <img align="center" src="https://static.itch.io/images/itchio-textless-black.svg" alt="Nadee23" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/Nader Aboud Cubero" target="blank">
+  <a href="https://www.linkedin.com/in/nader-aboud-cubero-80a566190/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nader Aboud Cubero" height="30" width="40" />
   </a>
 </p>
