@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nader
 
-### A passionate developer who loves learning and building creative projects 🚀
+### A passionate developer who loves learning and building creative projects.
 
 - 🔭 I’m currently working on a small video game for Steam and mobile, developed in Unity, along with its official website.
 - 🌱 I’m currently learning AWS to expand my skill set in cloud services.
